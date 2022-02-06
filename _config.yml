@@ -3,3 +3,8 @@ logo: /assets/img/photo.jpg
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+show_ref_links: true
+cvlocation: /assets/Sunny_CV.pdf
+email: sunnyamatya@gmail.com
+scholar: https://scholar.google.com/citations?user=cdf2twQAAAAJ&hl=en
+linkedin: https://www.linkedin.com/in/sunny-amatya-709a99154/
