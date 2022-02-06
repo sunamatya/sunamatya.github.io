@@ -12,10 +12,10 @@ My most recent work focuses on in autonomous vehicles. Representative papers are
 *   [Human Learning and Coordination in Lower-limb Physical Interactions](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9147738)
 	Sunny Amatya, Seyed Mostafa Rezayat Sorkhabadi, and Wenlong Zhang
 	American Control Conference (ACC, 2020)
-*   [Towards an Untethered Knit Fabric Soft Continuum Robotic Module with Embedded Fabric Sensing] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9116025)
+*   [Towards an Untethered Knit Fabric Soft Continuum Robotic Module with Embedded Fabric Sensing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9116025)
 	Pham H Nguyen, Zhi Qiao, Sam Seidel, Sunny Amatya, Imran IB Mohd, and Wenlong Zhang
 	IEEE International Conference on Soft Robotics (RoboSoft, 2020)
-*	[Task-assisted Motion Planning in Partially Observable Domains] (https://arxiv.org/pdf/1908.10227.pdf)
+*	[Task-assisted Motion Planning in Partially Observable Domains](https://arxiv.org/pdf/1908.10227.pdf)
 	Anthony Thomas, Sunny Amatya, Fulvio Mastrogiovanni, and Marco Baglietto
 	Italian Conference on Robotics and Intelligent Machine (I-RIM, 2019)
 *	[Design, Development, and Control of a Fabric-Based Soft Ankle Module to Mimic Human Ankle Stiffness](https://ieeexplore.ieee.org/abstract/document/8779495)
