@@ -32,7 +32,7 @@ My most recent work focuses on in autonomous vehicles. Representative papers are
 	
 *	[Design, Development, and Control of a Fabric-Based Soft Ankle Module to Mimic Human Ankle Stiffness](https://ieeexplore.ieee.org/abstract/document/8779495)
 	
-	**Sunny Amatya**, Amir Salimi Lafmejani, Souvik Poddar, Saivimal Sridar, Thomas Sugar, and Panagiotis Polygerinos
+	**Sunny Amatya**, Amir Salimi Lafmejani, Souvik Poddar, [Saivimal Sridar](https://scholar.google.com/citations?user=hKUvvEkAAAAJ&hl=en&oi=ao), [Thomas Sugar](https://scholar.google.com/citations?user=xm3gDhoAAAAJ&hl=en&oi=ao), and Panagiotis Polygerinos
 	IEEE International Conference on Rehabilitation Robotics (ICORR, 2019)
 	
 *	[Fabric Soft Grippers Grippers Capable of Selective Distributed Bending for Assistance of Daily Living Tasks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8722758)
