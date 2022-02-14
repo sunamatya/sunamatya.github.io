@@ -33,3 +33,7 @@ My most recent work focuses on in autonomous vehicles. Representative papers are
 	
 * 	[Real time kinect based robotic arm manipulation with five degree of freedom](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7111574)\
 	**Sunny Amatya**, and Somrak Petchartee, Asian Conference on Defense Technology (ACDT, 2015)
+
+## Thesis
+# Master's Thesis
+[Thesis](/assets/External_Advisor_for_Task_and_Motion_Planning_in_Belief_Space.pdf)
