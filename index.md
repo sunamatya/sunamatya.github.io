@@ -25,7 +25,7 @@ My most recent work focuses on in autonomous vehicles. Representative papers are
 *	[Design, Development, and Control of a Fabric-Based Soft Ankle Module to Mimic Human Ankle Stiffness](https://ieeexplore.ieee.org/abstract/document/8779495)\
 	**Sunny Amatya**, Amir Salimi Lafmejani, Souvik Poddar, [Saivimal Sridar](https://scholar.google.com/citations?user=hKUvvEkAAAAJ&hl=en&oi=ao), [Thomas Sugar](https://scholar.google.com/citations?user=xm3gDhoAAAAJ&hl=en&oi=ao), and Panagiotis Polygerinos, IEEE International Conference on Rehabilitation Robotics (ICORR, 2019)
 	
-*	[Fabric Soft Grippers Grippers Capable of Selective Distributed Bending for Assistance of Daily Living Tasks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8722758)
+*	[Fabric Soft Grippers Grippers Capable of Selective Distributed Bending for Assistance of Daily Living Tasks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8722758)\
 	Pham H. Nguyen, Saivimal Sridar, **Sunny Amatya**, Carly M. Thalman, and Panagiotis Polygerinos, IEEE International Conference of Soft Robotics (RoboSoft, 2019)
 	
 *	[Towards Perception Aware Task and Motion Planning](https://www.researchgate.net/profile/Antony-Thomas-3/publication/329399485_Towards_Perception_Aware_Task-Motion_Planning/links/5c06898d299bf169ae316c84/Towards-Perception-Aware-Task-Motion-Planning.pdf)\
@@ -35,5 +35,5 @@ My most recent work focuses on in autonomous vehicles. Representative papers are
 	**Sunny Amatya**, and Somrak Petchartee, Asian Conference on Defense Technology (ACDT, 2015)
 
 ## Thesis
-[Master's Thesis](/assets/External_Advisor_for_Combined_Task_and_Motion_Planning_in_Belief_Space.pdf)
+[Master's Thesis: External Advisor for Combined Task and Motion Planning in Belief Space](/assets/External_Advisor_for_Combined_Task_and_Motion_Planning_in_Belief_Space.pdf)\
 [Code](https://bitbucket.org/LittleSunny/masters-thesis/src/master/)
