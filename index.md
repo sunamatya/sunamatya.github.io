@@ -38,7 +38,7 @@ My most recent work focuses on in autonomous vehicles. Representative papers are
 
 ## Workshop
 *	[Scalable and Customizable Intent Inference and Motion Planning for Socially-Adept Autonomous Vehicles](/assets/ACC_2022_workshop.pptx)\
-	at [ACC 2022 Workshop on Human-Autonomy Interaction and Integration] (https://zoe104yao.github.io/ACC2022Workshop/program/)
+	at [ACC 2022 Workshop on Human-Autonomy Interaction and Integration](https://zoe104yao.github.io/ACC2022Workshop/program/)
 
 ## Thesis
 [Master's Thesis: External Advisor for Combined Task and Motion Planning in Belief Space](/assets/External_Advisor_for_Combined_Task_and_Motion_Planning_in_Belief_Space.pdf)\
