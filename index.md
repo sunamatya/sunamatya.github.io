@@ -6,10 +6,12 @@ My research lies at modeling human like behavior in human robot interaction. Muc
 My most recent work focuses on in autonomous vehicles. Representative papers are highlighted.
 
 ## News:
-*	Our Paper "When Shall I Estimate Your Intent? Costs and Benefits of Intent Inference in Multi-Agent Interactions", got accepted for ACC 2022!
-*	[I was at the ASU Day at the Capitol showcasing some of the work from RISE Lab](https://twitter.com/asuriselab/status/1486181046613774337/photo/2)
+*	Our Paper " Bounded Rational Game-theoretical Modeling of Human Cooperation under Incomplete Information", got accepted for IROS 2022!
 
 ## Publications
+*	[When Shall I Estimate Your Intent? Costs and Benefits of Intent Inference in Multi-Agent Interactions](/assets/ACC_2022_Poster.pptx).\
+	**Sunny Amatya**, Mukesh Ghimire, Yi Ren, Zhe Xu and Wenlong Zhang, American Control Conference (ACC, 2022)
+
 *   [When shall i be empathetic? the utility of empathetic parameter estimation in multi-agent interactions](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561079).\
 	Yi Chen, Lei Zhang, Tanner Merry, **Sunny Amatya**, [Wenlong Zhang](https://scholar.google.com/citations?user=S2xHIfoAAAAJ&hl=en&oi=ao), and Yi Ren, IEEE International Conference of Robotics and Automation (ICRA 2021)
 	
@@ -34,6 +36,14 @@ My most recent work focuses on in autonomous vehicles. Representative papers are
 * 	[Real time kinect based robotic arm manipulation with five degree of freedom](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7111574)\
 	**Sunny Amatya**, and Somrak Petchartee, Asian Conference on Defense Technology (ACDT, 2015)
 
+## Workshop
+*	[Scalable and Customizable Intent Inference and Motion Planning for Socially-Adept Autonomous Vehicles](/assets/ACC_2022_workshop.pptx)\
+	at [ACC 2022 Workshop on Human-Autonomy Interaction and Integration] (https://zoe104yao.github.io/ACC2022Workshop/program/)
+
 ## Thesis
 [Master's Thesis: External Advisor for Combined Task and Motion Planning in Belief Space](/assets/External_Advisor_for_Combined_Task_and_Motion_Planning_in_Belief_Space.pdf)\
 [Code](https://bitbucket.org/LittleSunny/masters-thesis/src/master/)
+
+## Outreach
+*	[I was at the ASU Day at the Capitol showcasing some of the work from RISE Lab](https://twitter.com/asuriselab/status/1486181046613774337/photo/2)
+*	[I was at Open Door 2019 at Poly campus showing some of our work](https://news.asu.edu/20190203-sun-devil-life-open-door-2019-takes-flight-polytechnic-campus)
