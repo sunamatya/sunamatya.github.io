@@ -6,10 +6,15 @@ My research lies at modeling human like behavior in human robot interaction. Muc
 My most recent work focuses on in autonomous vehicles. Representative papers are highlighted.
 
 ## News:
-*	Our Paper " Bounded Rational Game-theoretical Modeling of Human Cooperation under Incomplete Information", got accepted for IROS 2022!
+*	I will be at Open Door 2023 at RISE Lab, Poly campus showing some of our work.
+
+*	I successfully completed my Comprehensive Exam on 30th Nov 2022!!
 
 ## Publications
-*	[When Shall I Estimate Your Intent? Costs and Benefits of Intent Inference in Multi-Agent Interactions](/assets/ACC_2022_Poster.pptx).\
+*	[Bounded Rational Game-theoretical Modeling of Human Cooperation under Incomplete Information](https://ieeexplore.ieee.org/abstract/document/9982108?casa_token=9LtQOX7vYeQAAAAA:YQrLBsF3pwN4DzzO6mcMP20JMykz-60PnWmeC_5HM16WHCJwB-B2qfEgevV56GldNjvcXQVcBQ).\
+	Yiwei Wang, Pallavi Shintre, **Sunny Amatya** and Wenlong Zhang, IEEE International Conference on Intelligent Robots and Systems (IROS, 2022)
+	
+*	[When Shall I Estimate Your Intent? Costs and Benefits of Intent Inference in Multi-Agent Interactions](https://ieeexplore.ieee.org/abstract/document/9867155?casa_token=bXavV3t5vs8AAAAA:CPtGpS_uf00ZySmuC7OxByo9mX--diwEMspS0YjlrddiEm2iDkAR4Kn4ZkSCHFn08o0cPBkzag).\
 	**Sunny Amatya**, Mukesh Ghimire, Yi Ren, Zhe Xu and Wenlong Zhang, American Control Conference (ACC, 2022)
 
 *   [When shall i be empathetic? the utility of empathetic parameter estimation in multi-agent interactions](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561079).\
