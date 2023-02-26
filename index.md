@@ -38,6 +38,9 @@ My most recent work focuses on in autonomous vehicles. Representative papers are
 *	[Towards Perception Aware Task and Motion Planning](https://www.researchgate.net/profile/Antony-Thomas-3/publication/329399485_Towards_Perception_Aware_Task-Motion_Planning/links/5c06898d299bf169ae316c84/Towards-Perception-Aware-Task-Motion-Planning.pdf)\
 	[Antony Thomas](https://scholar.google.com/citations?user=aPSLBVUAAAAJ&hl=en&oi=sra), **Sunny Amatya**, [Fulvio Mastrogiovanni](https://scholar.google.com/citations?user=9dRRzV0AAAAJ&hl=en&oi=sra), and Marco Baglietto, AAAI 2018 Fall Symposium
 	
+*	[Task-Motion Planning in Belief Space](http://www.neil.dantam.name/2018/rss-tmp-workshop/thomas.pdf)\
+	[Antony Thomas](https://scholar.google.com/citations?user=aPSLBVUAAAAJ&hl=en&oi=sra), **Sunny Amatya**, [Fulvio Mastrogiovanni](https://scholar.google.com/citations?user=9dRRzV0AAAAJ&hl=en&oi=sra), and Marco Baglietto, RSS 2018 TMP Workshop
+	
 * 	[Real time kinect based robotic arm manipulation with five degree of freedom](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7111574)\
 	**Sunny Amatya**, and Somrak Petchartee, Asian Conference on Defense Technology (ACDT, 2015)
 
