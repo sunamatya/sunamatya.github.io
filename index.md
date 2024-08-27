@@ -2,15 +2,22 @@
 layout: default
 ---
 ## Research:
-My research lies at modeling human like behavior in human robot interaction. Much of my research is about inferring the intent in interaction. 
-My most recent work focuses on in autonomous vehicles. Representative papers are highlighted.
+My research lies in modeling human-like behavior in human-robot interaction. Much of my research is about inferring the intent in interaction. 
+My most recent work focuses on autonomous vehicles. Representative papers are highlighted.
 
 ## News:
-*	I will be at Open Door 2023 at RISE Lab, Poly campus showing some of our work.
+*	Our paper titled "Research Needs in Human-Autonomy Teaming: Thematic Analysis of Priority Features for Testbed Development" has been selected in RO-MAN 2024 happening on August 26-30 in Pasadena, California
+*	I will be showing some of our work at Open Door 2024 at RISE Lab, Poly campus.
 
 *	I successfully completed my Comprehensive Exam on 30th Nov 2022!!
 
 ## Publications
+*	Mutual Adaptation and Influence: Survey of Latent Dynamics Models in Human-Robot Interaction\
+	**Sunny Amatya**, Mason Smith, Yousef Soltanian, Johnathan Bush and Wenlong Zhang, IEEE Transactions on Human-Machine Systems (THMS, 2024) (Submitted)
+
+*	Research Needs in Human-Autonomy Teaming: Thematic Analysis of Priority Features for Testbed Development\
+	**Sunny Amatya**, Mason Smith, Ashish Amiresh, Jamie Gornan, Matthew Johnson, Nancy Cooke and Wenlong Zhang, IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN, 2024)
+
 *	[Bounded Rational Game-theoretical Modeling of Human Cooperation under Incomplete Information](https://ieeexplore.ieee.org/abstract/document/9982108?casa_token=9LtQOX7vYeQAAAAA:YQrLBsF3pwN4DzzO6mcMP20JMykz-60PnWmeC_5HM16WHCJwB-B2qfEgevV56GldNjvcXQVcBQ).\
 	Yiwei Wang, Pallavi Shintre, **Sunny Amatya** and Wenlong Zhang, IEEE International Conference on Intelligent Robots and Systems (IROS, 2022)
 	
