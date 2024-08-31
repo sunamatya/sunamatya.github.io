@@ -6,9 +6,9 @@ My research lies in modeling human-like behavior in human-robot interaction. Muc
 My most recent work focuses on autonomous vehicles. Representative papers are highlighted.
 
 ## News:
+*	Our paper, “Research Needs in Human-Autonomy Teaming: Thematic Analysis of Priority Features for Testbed Development,” has been selected as a Finalist for the Best Student Paper Award in RO-MAN 2024.
 *	Our paper titled "Research Needs in Human-Autonomy Teaming: Thematic Analysis of Priority Features for Testbed Development" has been selected in RO-MAN 2024 happening on August 26-30 in Pasadena, California
 *	I will be showing some of our work at Open Door 2024 at RISE Lab, Poly campus.
-
 *	I successfully completed my Comprehensive Exam on 30th Nov 2022!!
 
 ## Publications
