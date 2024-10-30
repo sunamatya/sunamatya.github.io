@@ -2,14 +2,13 @@
 layout: default
 ---
 ## Research:
-My research lies in modeling human-like behavior in human-robot interaction. Much of my research is about inferring the intent in interaction. 
+My research lies in modeling human-like behavior in human-robot interaction. I work with concepts of intermittency, primitive, and transfer which are human-like behaviors but have a strong control and mathematical background to them. 
 My most recent work focuses on autonomous vehicles. Representative papers are highlighted.
 
 ## News:
+*	I successfully defended my dissertation on 22nd Oct 2024!!
 *	Our paper, “Research Needs in Human-Autonomy Teaming: Thematic Analysis of Priority Features for Testbed Development,” has been selected as a Finalist for the Best Student Paper Award in RO-MAN 2024.
-*	Our paper titled "Research Needs in Human-Autonomy Teaming: Thematic Analysis of Priority Features for Testbed Development" has been selected in RO-MAN 2024 happening on August 26-30 in Pasadena, California
-*	I will be showing some of our work at Open Door 2024 at RISE Lab, Poly campus.
-*	I successfully completed my Comprehensive Exam on 30th Nov 2022!!
+
 
 ## Publications
 *	Mutual Adaptation and Influence: Survey of Latent Dynamics Models in Human-Robot Interaction\
@@ -24,7 +23,7 @@ My most recent work focuses on autonomous vehicles. Representative papers are hi
 *	[When Shall I Estimate Your Intent? Costs and Benefits of Intent Inference in Multi-Agent Interactions](https://ieeexplore.ieee.org/abstract/document/9867155?casa_token=bXavV3t5vs8AAAAA:CPtGpS_uf00ZySmuC7OxByo9mX--diwEMspS0YjlrddiEm2iDkAR4Kn4ZkSCHFn08o0cPBkzag).\
 	**Sunny Amatya**, Mukesh Ghimire, Yi Ren, Zhe Xu and Wenlong Zhang, American Control Conference (ACC, 2022)
 
-*   [When shall i be empathetic? the utility of empathetic parameter estimation in multi-agent interactions](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561079).\
+*   [When shall I be empathetic? the utility of empathetic parameter estimation in multi-agent interactions](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561079).\
 	Yi Chen, Lei Zhang, Tanner Merry, **Sunny Amatya**, [Wenlong Zhang](https://scholar.google.com/citations?user=S2xHIfoAAAAJ&hl=en&oi=ao), and Yi Ren, IEEE International Conference of Robotics and Automation (ICRA 2021)
 	
 *   [Human Learning and Coordination in Lower-limb Physical Interactions](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9147738)\
