@@ -14,7 +14,7 @@ My most recent work focuses on autonomous vehicles. Representative papers are hi
 *	Mutual Adaptation and Influence: Survey of Latent Dynamics Models in Human-Robot Interaction\
 	**Sunny Amatya**, Mason Smith, Yousef Soltanian, Johnathan Bush and Wenlong Zhang, IEEE Transactions on Human-Machine Systems (THMS, 2024) (Submitted)
 
-*	Research Needs in Human-Autonomy Teaming: Thematic Analysis of Priority Features for Testbed Development\
+*	[Research Needs in Human-Autonomy Teaming: Thematic Analysis of Priority Features for Testbed Development](https://ieeexplore.ieee.org/abstract/document/10731453).\
 	**Sunny Amatya**, Mason Smith, Ashish Amiresh, Jamie Gornan, Matthew Johnson, Nancy Cooke and Wenlong Zhang, IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN, 2024)
 
 *	[Bounded Rational Game-theoretical Modeling of Human Cooperation under Incomplete Information](https://ieeexplore.ieee.org/abstract/document/9982108?casa_token=9LtQOX7vYeQAAAAA:YQrLBsF3pwN4DzzO6mcMP20JMykz-60PnWmeC_5HM16WHCJwB-B2qfEgevV56GldNjvcXQVcBQ).\
