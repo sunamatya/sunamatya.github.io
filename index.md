@@ -6,6 +6,7 @@ My research lies in modeling human-like behavior in human-robot interaction. I w
 My most recent work focuses on autonomous vehicles. Representative papers are highlighted.
 
 ## News:
+*	I was at [OpenDoor 2025](https://news.asu.edu/20250216-sun-devil-community-photos-2025-polytechnic-open-door?utm_campaign=ASU_News_ASU+News+2-17-25_6941074&utm_medium=email&utm_source=Media%20Relations%20&%20Strategic%20Communications_SFMCE&utm_term=ASU&utm_content=Open+Door+photo&ecd42=518002422&ecd73=173437293&ecd37=ASU%20Media%20Relations_All%20Employees&ecd43=2/17/2025) presenting some of our HRI work for community outreach.
 *	I successfully defended my dissertation on 22nd Oct 2024!!
 *	Our paper, “Research Needs in Human-Autonomy Teaming: Thematic Analysis of Priority Features for Testbed Development,” has been selected as a Finalist for the Best Student Paper Award in RO-MAN 2024.
 
