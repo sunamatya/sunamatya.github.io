@@ -12,6 +12,9 @@ My most recent work focuses on autonomous vehicles. Representative papers are hi
 
 
 ## Publications
+*	Successor Features for Transfer in Alternating Markov Games\
+	**Sunny Amatya**, Yi Ren, Zhe Xu and Wenlong Zhang,  IEEE International Conference on Intelligent Robots and Systems (IROS, 2025) (Submitted)
+ 	
 *	Mutual Adaptation and Influence: Survey of Latent Dynamics Models in Human-Robot Interaction\
 	**Sunny Amatya**, Mason Smith, Yousef Soltanian, Johnathan Bush and Wenlong Zhang, IEEE Transactions on Human-Machine Systems (THMS, 2024) (Submitted)
 
@@ -48,12 +51,14 @@ My most recent work focuses on autonomous vehicles. Representative papers are hi
 *	[Task-Motion Planning in Belief Space](http://www.neil.dantam.name/2018/rss-tmp-workshop/thomas.pdf)\
 	[Antony Thomas](https://scholar.google.com/citations?user=aPSLBVUAAAAJ&hl=en&oi=sra), **Sunny Amatya**, [Fulvio Mastrogiovanni](https://scholar.google.com/citations?user=9dRRzV0AAAAJ&hl=en&oi=sra), and Marco Baglietto, RSS 2018 TMP Workshop
 	
-* 	[Real time kinect based robotic arm manipulation with five degree of freedom](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7111574)\
+* 	[Real-time kinect-based robotic arm manipulation with five degrees of freedom](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7111574)\
 	**Sunny Amatya**, and Somrak Petchartee, Asian Conference on Defense Technology (ACDT, 2015)
 
 ## Workshop
+*	[Successor Feature for Transfer in Games](/assets/ACC_2023_workshop_Amatya_ASU.pptx)\
+	at [ACC 2023 Workshop on Human-Autonomy Interaction and Integration](https://zoe104yao.github.io/ACC2022Workshop/program/)
 *	[Scalable and Customizable Intent Inference and Motion Planning for Socially-Adept Autonomous Vehicles](/assets/ACC_2022_workshop.pptx)\
-	at [ACC 2022 Workshop on Human-Autonomy Interaction and Integration](https://zoe104yao.github.io/ACC2022Workshop/program/)
+	at [ACC 2022 Workshop on Human-Autonomy Interaction and Integration]([https://zoe104yao.github.io/ACC2022Workshop/program/](https://zoe104yao.github.io/ACC2023Workshop/))
 
 ## Thesis
 [Master's Thesis: External Advisor for Combined Task and Motion Planning in Belief Space](/assets/External_Advisor_for_Combined_Task_and_Motion_Planning_in_Belief_Space.pdf)\
