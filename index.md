@@ -55,7 +55,7 @@ My most recent work focuses on autonomous vehicles. Representative papers are hi
 	**Sunny Amatya**, and Somrak Petchartee, Asian Conference on Defense Technology (ACDT, 2015)
 
 ## Workshop
-*	[Successor Feature for Transfer in Games](/assets/ACC_2023_workshop_Amatya_ASU.pptx)\
+*	[Successor Feature for Transfer in Games](/assets/ACC_2023_workshop_Amatya_ASU.pptx.pdf)\
 	at [ACC 2023 Workshop on Human-Autonomy Interaction and Integration](https://zoe104yao.github.io/ACC2022Workshop/program/)
 *	[Scalable and Customizable Intent Inference and Motion Planning for Socially-Adept Autonomous Vehicles](/assets/ACC_2022_workshop.pptx)\
 	at [ACC 2022 Workshop on Human-Autonomy Interaction and Integration]([https://zoe104yao.github.io/ACC2022Workshop/program/](https://zoe104yao.github.io/ACC2023Workshop/))
