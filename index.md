@@ -2,22 +2,20 @@
 layout: default
 ---
 ## Research:
-My research lies in modeling human-like behavior in human-robot interaction. I work with concepts of intermittency, primitive, and transfer which are human-like behaviors but have a strong control and mathematical background to them. 
+My research lies in modeling human-like behavior in human-robot interaction. I work with concepts of intermittency, primitive, and transfer, which are human-like behaviors but have a strong control and mathematical background to them. 
 My most recent work focuses on autonomous vehicles. Representative papers are highlighted.
 
 ## News:
-*	I was at [OpenDoor 2025](https://news.asu.edu/20250216-sun-devil-community-photos-2025-polytechnic-open-door?utm_campaign=ASU_News_ASU+News+2-17-25_6941074&utm_medium=email&utm_source=Media%20Relations%20&%20Strategic%20Communications_SFMCE&utm_term=ASU&utm_content=Open+Door+photo&ecd42=518002422&ecd73=173437293&ecd37=ASU%20Media%20Relations_All%20Employees&ecd43=2/17/2025) presenting some of our HRI work for community outreach.
-*	I successfully defended my dissertation on 22nd Oct 2024!!
-*	Our paper, “Research Needs in Human-Autonomy Teaming: Thematic Analysis of Priority Features for Testbed Development,” has been selected as a Finalist for the Best Student Paper Award in RO-MAN 2024.
+*	Our paper, “Successor Feature for Transfer in Alternating Markov Games,” has been selected for IROS 2025.
 
 
 ## Publications
-*	Successor Features for Transfer in Alternating Markov Games\
-	**Sunny Amatya**, Yi Ren, Zhe Xu and Wenlong Zhang,  IEEE International Conference on Intelligent Robots and Systems (IROS, 2025) (Submitted)
- 	
 *	Mutual Adaptation and Influence: Survey of Latent Dynamics Models in Human-Robot Interaction\
-	**Sunny Amatya**, Mason Smith, Yousef Soltanian, Johnathan Bush and Wenlong Zhang, IEEE Transactions on Human-Machine Systems (THMS, 2024) (Submitted)
-
+	**Sunny Amatya**, Mason Smith, Yousef Soltanian, Johnathan Bush and Wenlong Zhang, IEEE Transactions on Mechatronics (TMech, 2025) (In process)
+ 	
+*	Successor Features for Transfer in Alternating Markov Games\
+	**Sunny Amatya**, Yi Ren, Zhe Xu and Wenlong Zhang,  IEEE International Conference on Intelligent Robots and Systems (IROS, 2025) (Accepted)
+ 	
 *	[Research Needs in Human-Autonomy Teaming: Thematic Analysis of Priority Features for Testbed Development](https://ieeexplore.ieee.org/abstract/document/10731453).\
 	**Sunny Amatya**, Mason Smith, Ashish Amiresh, Jamie Gornan, Matthew Johnson, Nancy Cooke and Wenlong Zhang, IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN, 2024)
 
@@ -65,5 +63,6 @@ My most recent work focuses on autonomous vehicles. Representative papers are hi
 [Code](https://bitbucket.org/LittleSunny/masters-thesis/src/master/)
 
 ## Outreach
+*	I was at [OpenDoor 2025](https://news.asu.edu/20250216-sun-devil-community-photos-2025-polytechnic-open-door?utm_campaign=ASU_News_ASU+News+2-17-25_6941074&utm_medium=email&utm_source=Media%20Relations%20&%20Strategic%20Communications_SFMCE&utm_term=ASU&utm_content=Open+Door+photo&ecd42=518002422&ecd73=173437293&ecd37=ASU%20Media%20Relations_All%20Employees&ecd43=2/17/2025) presenting some of our HRI work for community outreach.
 *	[I was at the ASU Day at the Capitol showcasing some of the work from RISE Lab](https://twitter.com/asuriselab/status/1486181046613774337/photo/2)
 *	[I was at Open Door 2019 at Poly campus showing some of our work](https://news.asu.edu/20190203-sun-devil-life-open-door-2019-takes-flight-polytechnic-campus)
