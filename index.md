@@ -6,15 +6,15 @@ My research lies in modeling human-like behavior in human-robot interaction. I w
 My most recent work focuses on autonomous vehicles. Representative papers are highlighted.
 
 ## News:
-*	Our paper, “Successor Feature for Transfer in Alternating Markov Games,” has been selected for IROS 2025.
-
-
+*   I was at FABTECH 2025 Chicago 
+*	I have joined the Research and Development group at FANUC America.
+  
 ## Publications
 *	Mutual Adaptation and Influence: Survey of Latent Dynamics Models in Human-Robot Interaction\
 	**Sunny Amatya**, Mason Smith, Yousef Soltanian, Johnathan Bush and Wenlong Zhang, IEEE Transactions on Mechatronics (TMech, 2025) (In process)
  	
-*	Successor Features for Transfer in Alternating Markov Games\
-	**Sunny Amatya**, Yi Ren, Zhe Xu and Wenlong Zhang,  IEEE International Conference on Intelligent Robots and Systems (IROS, 2025) (Accepted)
+*	[Successor Features for Transfer in Alternating Markov Games] (https://arxiv.org/abs/2507.22278)\
+	**Sunny Amatya**, Yi Ren, Zhe Xu and Wenlong Zhang,  IEEE International Conference on Intelligent Robots and Systems (IROS, 2025)
  	
 *	[Research Needs in Human-Autonomy Teaming: Thematic Analysis of Priority Features for Testbed Development](https://ieeexplore.ieee.org/abstract/document/10731453).\
 	**Sunny Amatya**, Mason Smith, Ashish Amiresh, Jamie Gornan, Matthew Johnson, Nancy Cooke and Wenlong Zhang, IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN, 2024)
